@@ -9,7 +9,9 @@
   max-height: 50%;*/
 
 }
-
+body, html {
+  height: 100%;
+}
 footer {
   text-align: center;
 }
